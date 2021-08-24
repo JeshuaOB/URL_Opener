@@ -1,4 +1,4 @@
-<h1>Gmail_API</h1>
+<h1>URL_Opener</h1>
 <h2>Contenido del repositorio</h2>
 <p>El proyecto que contiene este repositorio consiste en un script desarrollado con Python capaz de abrir una lista de URL en el navegador predeterminado. Cada URL se abre en una pestaña nueva, y la lista del conjunto de webs se extrae de un archivo externo, ya sea un archivo TXT o un XLSX. Los archivos que constituyen este proyecto son:</p>
 <ul>
