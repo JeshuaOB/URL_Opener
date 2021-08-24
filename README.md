@@ -8,7 +8,7 @@
 </ul>
 <h2>Indicaciones</h2>
 <p>❗ Podemos indicar el formato del archivo contenedor de la lista de URL con el que queremos trabajar mediante el valor de la variable <i>excel</i> definida en el archivo <i>urlOpener.py</i>. Para trabajar con un archivo XLSX, indicaremos <i>excel</i> = <strong>True</strong>, mientras que si queremos trabajar con un archivo TXT indicaremos <i>excel</i> = <strong>False</strong>.</p>
-<p>❗ Es necesario importar específicamente la versión 1.2.0 de la libreria "xlrd" de Python para poder abrir archivos XLSX. Para ello, podemos aplicar en la consola el siguiente comando: <i>pip install xlrd==1.2.0</i> .</p>
+<p>❗ Es necesario importar específicamente la versión 1.2.0 de la librería <i>xlrd</i> de Python para poder abrir archivos XLSX. Para ello, podemos aplicar en la consola el siguiente comando: <i>pip install xlrd==1.2.0</i> .</p>
 <h2>Estado</h2>
 <p><strong>✔️ FINALIZADO</strong></p>
 <p>📅 Ultima modificación: <strong>24/08/2021</strong></p>
